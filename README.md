@@ -1,4 +1,4 @@
-# CrystalCaseStudy2022
+# CrystalCaseStudy2022 (Group 1)
 Crystal Data Science Course Case Study: Car sales prediction with supervised machine learning algorithms
 
 Case study
